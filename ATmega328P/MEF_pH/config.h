@@ -1,0 +1,13 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define SAMPLING_INTERVAL 500
+#define ARRAY_LENGTH 50
+#define OFFSET_PH 0.00
+
+#define T_INMERSION_1 30000UL
+#define T_INMERSION_2 45000UL
+
+#define T_PARPADEO 1000
+
+#endif
