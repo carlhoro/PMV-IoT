@@ -1,9 +1,36 @@
+## Hey 👋, I'm Carlos Hoyos
+
+Hi there, I'm **Carlos Hoyos**, a **biomedical enginner and pasionate dev**.
+
+I love programming and create.
+
+### Talking about Personal Stuffs:
+
+- 👨🏽‍💻 I’m currently a biomedical enginner and MSc student in management in digital transformation; 
+- 🤔 My interests are IoT, management and a couple more.;
+- 💼 At work i’m pursuing knowledge;
+- 💬 Ask me about digital transformation and tech, I am happy to help;
+- 📫 Please email me if you have any questions carlos.hoyos@raniot.tech.
+
+### project 
+
+## PMV-IoT for fast prototipe, non production
+
+### Languages and Tools:
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![arduino](https://img.shields.io/badge/Arduino-3776AB?style=flat-square&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-F7DF1E?style=flat-square&logo=cplusplus&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+
+### Descripción general
+
 # PMV-IoT
 Basic Serial IoT Gateway Architecture scaffold, faster prototyping of ideas and validation. Non comercial ans non secure coding. 
 
 Versión 1.0
 
-Descripción general
+## Descripción general
 
 Este repositorio presenta una arquitectura desacoplada de dos firmwares, diseñada para habilitar conectividad IoT en equipos especializados que en su diseño original no cuentan o contaron con capacidades nativas de red, pero sí con puerto serial (UART).
 
@@ -13,7 +40,7 @@ Este enfoque permite prototipado rápido, reutilización del módulo IoT y míni
 
 Arquitectura del sistema
 
-El sistema está compuesto por dos SoC independientes que se comunican mediante un contrato serial unidireccional:
+## El sistema está compuesto por dos SoC independientes que se comunican mediante un contrato serial unidireccional:
 
 [ MCU / PIC ]
   └─ Control de proceso
